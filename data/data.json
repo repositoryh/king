@@ -41,5 +41,20 @@
       }
     ],
     "createdAt": "2025-11-16T02:16:30.571Z"
+  },
+  {
+    "name": "Ghulam Rasool",
+    "phone": "03291001302",
+    "address": "Shaili gharbi",
+    "children": [
+      {
+        "name": "Danish Rasool",
+        "age": "19",
+        "gender": "male",
+        "education": "Inter",
+        "now": "free"
+      }
+    ],
+    "createdAt": "2025-11-17T14:39:26.254Z"
   }
 ]
